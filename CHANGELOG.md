@@ -1,5 +1,10 @@
 # Changelog
 
+## 0.0.34
+
+* Sample commit 3
+* Sample commit 2
+
 ## 0.0.33
 
 * Changed dev version pattern to match what python wants.
