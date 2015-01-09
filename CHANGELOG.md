@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1
+
+* Testing 2
+
 ## 0.1.0
 
 * Testing 1
