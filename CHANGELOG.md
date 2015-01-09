@@ -1,5 +1,12 @@
 # Changelog
 
+## 1.0.6
+
+* Testing 15
+* Testing 14
+* Testing 12
+* Manual include
+
 ## 1.0.5
 
 * testing 3
