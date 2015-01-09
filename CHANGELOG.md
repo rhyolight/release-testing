@@ -1,5 +1,11 @@
 # Changelog
 
+## 1.0.7
+
+* Testing 18
+* Testing 17
+* Testing 16
+
 ## 1.0.6
 
 * Testing 15
