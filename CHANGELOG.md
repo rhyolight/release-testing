@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.0
+
+* Testing 1
+
 ## 0.0.34
 
 * Sample commit 3
