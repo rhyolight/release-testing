@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.4
+
+* I added this manually.
+* testing
+
 ## 1.0.3
 
 * Testing
